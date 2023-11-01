@@ -1,11 +1,14 @@
 ## 1.1 Latar Belakang
 
-Banyak kalangan muda yang suka nongkrong dan ngopi di cafe. Yang hanya ingin berkunjung, mencari kuliner, dan ada yang sembari mengerjakan tugas.
+Pada zaman sekarang semua kalangan banyak yang mementingkan fashion 
 Mempermudah para costumer untuk memesan sebuah pesanan agar langsung terhubung ke penjual
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-begini begitu begini begitu
+Menggunakan database dari PhPmyAdmin,mysql,MariaDB
+Dibuat menggunakan HTML,css,javascript
+Menggunakan tambahan seperti bootstrap dan fontawesome untuk menambahkan beberapa fitur
+Menggunakan text editor VS Code
 
 ## 1.3. Branding
 
