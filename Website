@@ -36,7 +36,10 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Menggunakan database dari PhPmyAdmin,mysql,MariaDB
+Dibuat menggunakan HTML,css,javascript
+Menggunakan tambahan seperti bootstrap dan fontawesome untuk menambahkan beberapa fitur
+Menggunakan text editor VS Code
 
 ## 6. Desain User Experience dan User Interface
 
