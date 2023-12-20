@@ -42,9 +42,26 @@ Gunakan kampanye visual yang mempromosikan produk dengan gaya yang edgy dan mode
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Admin |Mempunyai akun sendiri | Dapat login ke laman admin | ⭐⭐⭐
+Admin | Masuk ke laman admin | Dapat mengatur data | ⭐⭐⭐⭐
+Admin | Mengatur data | Dapat mengatur data produk | ⭐⭐⭐
+Admin | Menambahkan detail produk | Dapat menambahkan jumlah produk,gambar produk dan ketersediaan produk | ⭐⭐
+Admin | Diadakan contact us | Pengguna dapat memesan melalui laman contact us admin | ⭐⭐⭐⭐
+Pengguna | Masuk ke laman utama pengguna | Dapat melihat katalog sebuah produk | ⭐⭐⭐⭐⭐
+Pengguna | Melihat kategori produk | Dapat melihat produk per kategori contohnya hanya baju saja atau hanya celana saja  | ⭐⭐⭐
+Pengguna | Mencari produk yang diinginkan | Dapat melihat produk yang di inginkan saja  | ⭐⭐⭐
+Pengguna | Melihat detail produk | Dapat melihat produk yang di inginkan agar lebih jelas dan detail | ⭐⭐⭐
+Pengguna | Melihat ketersedian produk | Dapat melihat ketersediaan produk yang di inginkan agar bisa memesan produk  | ⭐⭐⭐⭐
+Pengguna | Melihat deskripsi produk | Dapat membaca dan melihat produk lebih detail mulai dari bahan yang di gunakan, ukuran, dan warna produk yang tersedia  | ⭐⭐⭐
+Pengguna | Melihat laman about us | Dapat melihat tentang toko yang di kunjungi  | ⭐⭐
+Pengguna | Melihat contact toko | Dapat memesan melalui contact toko tersebut  | ⭐⭐⭐⭐
+
+
+
+
+
 
 ## 3. Struktur Data
 
