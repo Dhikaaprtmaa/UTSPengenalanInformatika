@@ -47,6 +47,8 @@ Sebagai | Saya bisa | Sehingga | Prioritas
 Admin |Mempunyai akun sendiri | Dapat login ke laman admin | ⭐⭐⭐
 Admin | Masuk ke laman admin | Dapat mengatur data | ⭐⭐⭐⭐
 Admin | Mengatur data | Dapat mengatur data produk | ⭐⭐⭐
+Admin | Mengatur data | Dapat menambahkan dan menghapus data kategori | ⭐⭐⭐
+Admin | Mengatur data | Dapat menambahkan dan menghapus data produk | ⭐⭐⭐
 Admin | Menambahkan detail produk | Dapat menambahkan jumlah produk,gambar produk dan ketersediaan produk | ⭐⭐
 Admin | Diadakan contact us | Pengguna dapat memesan melalui laman contact us admin | ⭐⭐⭐⭐
 Pengguna | Masuk ke laman utama pengguna | Dapat melihat katalog sebuah produk | ⭐⭐⭐⭐⭐
