@@ -68,12 +68,18 @@ Pengguna | Memasuki laman see more | Dapat melihat semua kategori dan produk den
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 ```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+flowchart TD;
+    A[Toko] --> B[Kategori];
+    B --> C[id kategori];
+    B --> D[Nama kategori];
+    B --> E[Jumlah kategori];
+    B --> F[Produk];
+    F --> G[Nama Produk];
+    F --> H[Harga Produk];
+    F --> I[Detail produk];
+    F --> J[Harga Produk];
+    F --> K[Jumlah Produk];  
 ```
 
 ## 4. Arsitektur Sistem
