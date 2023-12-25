@@ -92,9 +92,9 @@ flowchart LR;
     D --> E[Memesan];
     E --> F[Contact Us];
     F --> G[Instagram];
-    F --> G[Facebook];
-    F --> G[Twitter];
-    F --> G[Whatsapp];
+    F --> H[Facebook];
+    F --> I[Twitter];
+    F --> J[Whatsapp];
 ```
 
 ## 5. Teknologi, Library, dan Framework
