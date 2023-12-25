@@ -84,14 +84,21 @@ flowchart TD;
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart LR;
+    A[Home] --> B[Kategori];
+    B --> C[Produk];
+    C --> D[Detail Produk];
+    D --> E[Memesan];
+    E --> F[Contact Us];
+```
 
 ## 5. Teknologi, Library, dan Framework
 
 Menggunakan database dari PhPmyAdmin,mysql,MariaDB
 Dibuat menggunakan HTML,css,javascript
 Menggunakan tambahan seperti bootstrap dan fontawesome untuk menambahkan beberapa fitur
-Menggunakan text editor VS Code
+ Serta Menggunakan text editor VS Code
 
 ## 6. Desain User Experience dan User Interface
 
