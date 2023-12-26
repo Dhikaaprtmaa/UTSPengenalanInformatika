@@ -133,7 +133,8 @@ Halaman About Us
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+POV Admin : (https://drive.google.com/file/d/1rUwPmkgZnkwPZSWDObZx9Gq5u6b2oXss/view?usp=drive_link)
+POV User : 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
