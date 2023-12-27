@@ -9,6 +9,9 @@ Website katalog produk adalah sebuah situs web yang menampilkan daftar produk ya
 ## 1.3. Branding
 
 Logo:
+
+![UrbanChic](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/1b733863-b09b-48c7-bb57-8e62da9d0950)
+
 Desain logo yang modern,dikombinasikan dengan unsur fashion seperti garis-garis atau elemen abstrak yang mencerminkan kechic-an.
 
 Warna:
