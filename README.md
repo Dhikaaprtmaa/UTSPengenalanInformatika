@@ -106,30 +106,36 @@ Menggunakan tambahan seperti bootstrap dan fontawesome untuk menambahkan beberap
 
 ## 6. Desain User Experience dan User Interface
 
-
-Halaman login admin
-(https://ibb.co/Sd21Pv8)
+Halaman login admin![Toko Online _ Home - Google Chrome 20_12_2023 17_24_55](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/a6d579c9-6f61-40c8-8ac8-e5f3ef56b7d0)
 
 Halaman home admin
-(https://ibb.co/XpxD8mJ)
+
+![Toko Online _ Home - Google Chrome 20_12_2023 17_25_02](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/d570ae72-5e0d-4b4b-bc6d-f814aeff638b)
 
 Halaman Kategori admin
-(https://ibb.co/NyTc1Nc)
+
+![Toko Online _ Home - Google Chrome 20_12_2023 17_25_12](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/c6b95ce4-ddb6-4ff2-9a20-d54cb55ffb6b)
 
 Halaman Produk admin
-(https://ibb.co/5cVn7SK)
+
+![Toko Online _ Home - Google Chrome 20_12_2023 17_25_15](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/fd448a05-be6c-4d05-9955-2799c85225a1)
 
 Halaman Home pengguna
-(https://ibb.co/NCjjtfL)
+
+![Fashion Textile Craftsman Logo _ BrandCrowd Logo Maker _ BrandCrowd - Google Chrome 20_12_2023 17_24_17](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/923f78d0-f353-4f9e-85db-dbe0dc7b0ae7)
 
 Halaman Produk Pengguna
-(https://ibb.co/hRGLrgK)
+
+![Toko Online _ Home - Google Chrome 20_12_2023 17_24_44](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/aebb9e29-e304-4a8e-ac1b-30dfbee8cc57)
 
 Halaman Contact Us
-(https://ibb.co/YL4Xnnm)
+
+![Toko Online _ Home - Google Chrome 20_12_2023 17_24_35](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/ee333820-59d1-487b-9b4b-00fdf81b9473)
+
 
 Halaman About Us
-(https://ibb.co/S73zG6Z)
+
+![ImgBB — penyimpanan gambar gratis _ unggah gambar - Google Chrome 20_12_2023 17_35_12](https://github.com/Dhikaaprtmaa/UTSPengenalanInformatika/assets/144656642/d8c356c7-2425-442b-844b-1d4458a6541e)
 
 ## 7. Demonstrasi Video
 
